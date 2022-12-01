@@ -1,0 +1,6 @@
+{
+    "debug.showInlineBreakpointCandidates": false,
+    "debug.showBreakpointsInOverviewRuler": false,
+    "debug.inlineValues": "off",
+    "debug.disassemblyView.showSourceCode": false
+}
